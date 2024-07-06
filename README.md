@@ -6,7 +6,7 @@
 ## If another CPU than the R5 5500 is used, the AMD Kernel Patch used for it will need some changes in the config.plist of OpenCore
 ## Please read these docs -> https://github.com/AMD-OSX/AMD_Vanilla?tab=readme-ov-file#read-me-first <-
 
-Will most likely work on another PC with same specs.
- OS : Monterey (possible upgrade to Ventura & Sonoma)
+Will most likely work on another PC with same specs.\
+OS : Monterey (possible upgrade to Ventura & Sonoma)
 
- © plumsy.dev
+© plumsy.dev
